@@ -1,4 +1,7 @@
 # microCounter
+
+![microCounter](https://github.com/alistair-mclean/microCounter/blob/master/res/main.png?raw=true)
+
 Welcome to the microCounter repository!
 
 microCounter is a tool designed to assist with analysis of MicroBiological organisms. 
@@ -45,7 +48,7 @@ Type the following command into the command line:
 >pip install tkinter
 
 # Using microCounter
-![microCounter](https://github.com/alistair-mclean/microCounter/blob/master/res/main.png?raw=true)
+The following are instructions on how to properly use micrCounter in its current state. 
 
 ## Start microCounter
 Assuming microCounter has been downloaded and extracted(or cloned) properly. And the installation requirement have been fulfilled. 
