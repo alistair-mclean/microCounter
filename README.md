@@ -77,7 +77,7 @@ After the image has been loaded, you should see it appear in the interface.
 The name of the organism - used for output files.
 
 ### Color Thresholds 
-The low and high of the color values which represent a potential organism. Used for filtering, and counting organisms. 
+The low and high of the color values which represent a potential organism. Used for filtering, and counting organisms. THIS IS CURRENTLY BEING REDISGNED - DON'T WORRY!
 
 #### 1. Press either the low or high color button.  (Seen highlighted in blue)
 ![Color Select](https://github.com/alistair-mclean/microCounter/blob/master/res/selectColor.png?raw=true)
