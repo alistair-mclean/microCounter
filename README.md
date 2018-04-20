@@ -4,7 +4,7 @@
 
 Welcome to the microCounter repository!
 
-microCounter is a tool designed to assist with analysis of MicroBiological organisms. 
+microCounter is a tool designed to assist with analysis of images of microorganisms. 
 This project is deep in its early development stages, be prepared for significant overhauls in the near future. 
 What you see here is merely a prototype of functionality, and things to come. 
 
