@@ -119,7 +119,7 @@ Here are some examples:
 
 
 Included is a text file which includes the results about the analysis. Here's an example: 
-'''
+```
 -----------------------------------------------------------------------
 Source file: C:/Users/alist/Documents/GitHub/microCounter/samples/sample1.tif
  Recorded on : 2018-04-20 at 13:05:53
@@ -130,7 +130,7 @@ Source file: C:/Users/alist/Documents/GitHub/microCounter/samples/sample1.tif
  Size Range: [ 4px , 12px ]
  Based on the count of : 52493 pixels resulting from the given thresholds: [ 38 255   8] - [ 59 255 234]. 
  Percentage of area covered by pseudomonas aeruginosa is: 8.410991828232655%
-'''
+```
 
 
 # In the works
