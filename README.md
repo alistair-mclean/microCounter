@@ -137,7 +137,8 @@ Source file: C:/Users/alist/Documents/GitHub/microCounter/samples/sample1.tif
 - microCounter is currently being redesigned to exist as a web service.
 - Analysis setup will eventually be automatic. Providing more convenience with analyzing large amounts of data. 
 - Manual analysis setup will be drastically improved. 
-- 
+- New analysis characteristics will be added. 
+
 
 # Usage
 This software is free to use for anybody. Please do not redistribute copies of this software.  
