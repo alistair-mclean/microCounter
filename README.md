@@ -29,6 +29,7 @@ After Python has finished installing - open a terminal (or command prompt on Win
 If you get an error, Python or pip may not be installed properly and you may have to do some further troubleshooting depending upon your issue. 
 
 Upgrade pip. 
+
 For Mac and Linux users type: 
 > pip install --upgrade pip
 
